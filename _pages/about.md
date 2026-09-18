@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-This is probably not gonna be updated ever.
+Hi, I'm Jake. This page is a work in progress.
